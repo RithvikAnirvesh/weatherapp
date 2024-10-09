@@ -1,2 +1,2 @@
 weatherapp
-link: https://weatherappdelta.netlify.app
+link: https://weatherappalpha.netlify.app
